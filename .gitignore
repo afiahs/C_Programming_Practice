@@ -1,0 +1,17 @@
+# Compiled C files
+*.o
+
+
+# C compiled executables
+01_Basics/comments
+01_Basics/constants
+01_Basics/data_types
+01_Basics/hello_world
+01_Basics/type_casting
+01_Basics/variables
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
